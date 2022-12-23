@@ -1,0 +1,42 @@
+All packages loaded.
+Directories specified
+96777 samples can be used for training
+All names classified and encoded for training the model.
+Training Features Shape: (87099, 30, 28)
+Training Labels Shape: (87099,)
+Testing Features Shape: (9678, 30, 28)
+Testing Labels Shape: (9678,)
+Model parameters specified
+Final Model trained
+Training history saved
+F1 score on the test set is: 0.914
+                  precision    recall  f1-score   support
+
+      AngloSaxon      0.861     0.898     0.879       793
+          Arabic      0.907     0.897     0.902       380
+         Balkans      0.851     0.815     0.833       232
+           China      0.934     0.947     0.940       657
+      EastEurope      0.888     0.903     0.895       682
+          French      0.878     0.913     0.896       774
+          German      0.817     0.870     0.843       631
+Hispanic-Iberian      0.938     0.908     0.923       638
+           India      0.897     0.926     0.911       421
+         Italian      0.952     0.929     0.940       617
+           Japan      0.977     0.994     0.985       884
+           Korea      0.953     0.965     0.959       592
+         Persian      0.903     0.870     0.886       161
+    Scandinavian      0.934     0.898     0.916       694
+  Slavic-Russian      0.973     0.965     0.969       636
+   SouthEastAsia      0.896     0.689     0.779       289
+          Turkey      0.942     0.966     0.954       440
+   Dutch-Flemish      0.891     0.777     0.830       157
+
+        accuracy                          0.915      9678
+       macro avg      0.911     0.896     0.902      9678
+    weighted avg      0.915     0.915     0.914      9678
+
+Train final model with all data
+Features: (96777, 30, 28)
+Response: (96777,)
+Final Model trained
+Final model saved

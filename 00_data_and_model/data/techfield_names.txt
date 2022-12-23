@@ -1,0 +1,36 @@
+tech_field;tech_field_name
+1;Electrical machinery, apparatus, energy
+2;Audio-visual technology
+3;Telecommunications
+4;Digital Communication
+5;Basic Communciation Processes
+6;Computer Technology
+7;IT methods for management
+8;Semiconducters
+9;Optics
+10;Measurement
+11;Analysis of biological materials
+12;Control
+13;Medical technology
+14;Organic fine chemistry
+15;Biotechnology
+16;Pharmaceuticals
+17;Macromolecular chemistry, polymers
+18;Food chemistry
+19;Basic materials chemistry
+20;Materials, metallurgy
+21;Surface technology, coating
+22;Micro-structural and nano-technology
+23;Chemical engineering
+24;Environmental technology
+25;Handling
+26;Machine tools
+27;Engines, pumps, turbines
+28;Textile and paper machines
+29;Other special machines
+30;Thermal processes and apparatus
+31;Mechanical elements
+32;Transport
+33;Furniture, games
+34;Other consumer goods
+35;Civil engineering

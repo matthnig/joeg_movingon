@@ -1,0 +1,16 @@
+name: inventor_migration
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - joblib=1.0.1=pyhd3eb1b0_0
+  - matplotlib=3.3.1=0
+  - pandas=1.1.3=py37ha925a31_0
+  - py-xgboost=0.90=py37_1
+  - pyreadr=0.3.5=py37he7824e7_1
+  - scikit-learn=0.23.2=py37h47e9c7a_0
+  - pip:
+    - numpy==1.19.2
+    - scipy==1.4.1
+    - tensorflow==2.2.0
